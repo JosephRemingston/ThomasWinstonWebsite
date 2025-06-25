@@ -1,4 +1,4 @@
-// Main JavaScript file for Dr. Thomas Athisayaraj's website
+// Main JavaScript file for Mr. Thomas Athisayaraj's website
 
 // Wait for DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
